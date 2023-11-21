@@ -1,3 +1,5 @@
 # Timer
  Simple timer written in SwiftUI
-![](Timer.gif)
+
+ 
+![](Timer.gif = 400x868)
